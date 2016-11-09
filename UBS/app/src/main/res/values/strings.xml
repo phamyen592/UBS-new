@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UBS</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="loading">loading...</string>
+
+
+</resources>
+

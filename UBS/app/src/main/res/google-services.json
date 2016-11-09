@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "943050454621",
+    "project_id": "firebase-ubsapp"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943050454621:android:a0c59f63176b4bbc",
+        "android_client_info": {
+          "package_name": "com.example.yenpham.ubs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943050454621-nhuebh813e8flmrmdpl08bg3jqlngfr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yenpham.ubs",
+            "certificate_hash": "797742F52E4BCFD70D00D4526F13934FFF6C3C41"
+          }
+        },
+        {
+          "client_id": "943050454621-l7tvfg91d6fekeun8cit3qfocoam6112.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTqr7F6mQzCEw3QGu8DWODiYflr_sbrrI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

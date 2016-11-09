@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_51f95279504457de8083a703418faa4ab6223941.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_c36bfe6ec1e53d9cb1cf2040be1f48f18f8394d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_5c96668c165c2dd44d1c03192fd1434e507ff49a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_caba09d51e66bfdb9389d65f0fb498322c0c554a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b0ed0aea8cdb5f32ff49327eab27a2daf560a190.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.2.1_7b5f17489306cbea03bbf66505120c78d126224f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1c3515e21832ddd07a6e9ff90953dc19901b55b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.2.1_4fde000112aa1d8ec670c55bc72a702703e2b282.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_6d9009c9d45c7710cec70bbde58516107ecacb67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1b6a23367fa193ad9834d9a67039150617aef33a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/glide-3.7.0_5beef462c3c252a3940f63545dd893d0542fbd0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.2.1_c73662c2f70bbd11f251d9d1488412d5c44821be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.2.1_08aff3ed166dca9f77df71bfb929d3ce24961f27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_d9afe03f567a8304cc8dcb857eda29b6cde2facf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_3c7a09315f587dac6c657f53cd32b0b7385b2470.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_82c552e5897f8303aadb40c06de43146cde82d39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b0ed0aea8cdb5f32ff49327eab27a2daf560a190.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_da090f465c2ac45bac971703d13464f00f1f0aeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_5c96668c165c2dd44d1c03192fd1434e507ff49a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_193930c994d08de7e32a06120888d27a35b18c76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_51f95279504457de8083a703418faa4ab6223941.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_07bb26c7832eab7b5db35fc77cd85cf5d711abc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_c65ef0f28b45047452435c5155a9355faaa79d63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1b6a23367fa193ad9834d9a67039150617aef33a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.2.1_08aff3ed166dca9f77df71bfb929d3ce24961f27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.2.1_4fde000112aa1d8ec670c55bc72a702703e2b282.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_543b5afb36a29ef9ffd7b3dd6bdd9630a204eaa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_1fba131caf57056914e249e80ff4f7d9d0a4d8bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_caba09d51e66bfdb9389d65f0fb498322c0c554a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_c36bfe6ec1e53d9cb1cf2040be1f48f18f8394d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.2.1_6acfca12c8a163631b16c279fb76f2d0cf575f84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1c3515e21832ddd07a6e9ff90953dc19901b55b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.2.1_7b5f17489306cbea03bbf66505120c78d126224f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.2.1_c73662c2f70bbd11f251d9d1488412d5c44821be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_d9afe03f567a8304cc8dcb857eda29b6cde2facf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/glide-3.7.0_5beef462c3c252a3940f63545dd893d0542fbd0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_07bb26c7832eab7b5db35fc77cd85cf5d711abc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_c65ef0f28b45047452435c5155a9355faaa79d63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_da090f465c2ac45bac971703d13464f00f1f0aeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_82c552e5897f8303aadb40c06de43146cde82d39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_3c7a09315f587dac6c657f53cd32b0b7385b2470.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.2.1_6acfca12c8a163631b16c279fb76f2d0cf575f84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_6d9009c9d45c7710cec70bbde58516107ecacb67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_193930c994d08de7e32a06120888d27a35b18c76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_543b5afb36a29ef9ffd7b3dd6bdd9630a204eaa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_1fba131caf57056914e249e80ff4f7d9d0a4d8bc.jar" />
+    </item>
+
+</items>
