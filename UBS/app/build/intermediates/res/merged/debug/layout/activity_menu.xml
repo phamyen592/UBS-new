@@ -11,7 +11,7 @@
     tools:context="com.example.yenpham.ubs.menu">
 
     <Button
-        android:text="Button"
+        android:text="@string/btn_logout_from_google"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
@@ -20,7 +20,7 @@
         android:layout_marginLeft="78dp"
         android:layout_marginStart="78dp"
         android:layout_marginTop="103dp"
-        android:id="@+id/button2" />
+        android:id="@+id/logout" />
 
     <Button
         android:text="Button"
@@ -38,8 +38,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/button3"
-        android:layout_toRightOf="@+id/button2"
-        android:layout_toEndOf="@+id/button2"
+        android:layout_toRightOf="@+id/logout"
+        android:layout_toEndOf="@+id/logout"
         android:layout_marginLeft="11dp"
         android:layout_marginStart="11dp"
         android:layout_marginTop="70dp"

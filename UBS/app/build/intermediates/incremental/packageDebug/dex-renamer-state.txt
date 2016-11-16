@@ -1,4 +1,7 @@
-#Wed Nov 09 15:06:43 CST 2016
-base.0=/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Tue Nov 15 15:15:43 CST 2016
+base.0=/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3b11d8ecc3208addb833dbc78398649bb4ba70c0
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.1=/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c481b62c835b7e1a554e168355aec2049adf57d2/classes.dex
+base.1=/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c481b62c835b7e1a554e168355aec2049adf57d2
+file.0=/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3b11d8ecc3208addb833dbc78398649bb4ba70c0/classes.dex

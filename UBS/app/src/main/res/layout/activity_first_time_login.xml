@@ -8,7 +8,8 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.yenpham.ubs.firstTimeLogin">
+    tools:context="com.example.yenpham.ubs.firstTimeLogin"
+    android:background="@color/common_google_signin_btn_text_light_focused">
 
     <EditText
         android:layout_width="wrap_content"
@@ -77,15 +78,6 @@
         android:layout_alignLeft="@+id/mavId"
         android:layout_alignStart="@+id/mavId" />
 
-    <Button
-        android:text="Button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/button5"
-        android:elevation="0dp"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
-
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -96,4 +88,14 @@
         android:layout_below="@+id/phone"
         android:layout_alignLeft="@+id/phone"
         android:layout_alignStart="@+id/phone" />
+
+    <Button
+        android:text="Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/submit"
+        android:elevation="0dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="60dp" />
 </RelativeLayout>
