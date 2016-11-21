@@ -4,8 +4,10 @@ package com.example.yenpham.ubs;
 import android.app.ProgressDialog;
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.net.Uri;
 import android.os.Bundle;
+import android.provider.SyncStateContract;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
@@ -31,6 +33,9 @@ import com.google.android.gms.common.api.OptionalPendingResult;
 import com.google.android.gms.common.api.ResultCallback;
 import com.google.android.gms.common.api.Status;
 
+import static com.example.yenpham.ubs.R.id.email;
+
+
 /**
  * Created by Yenpham on 11/3/16.
  */
@@ -40,7 +45,7 @@ public class login_gg extends AppCompatActivity implements
     GoogleApiClient.OnConnectionFailedListener {
 
         private static final String TAG = MainActivity.class.getSimpleName();
-        private static final int RC_SIGN_IN = 007;
+        private static final int RC_SIGN_IN = 000;
 
         private GoogleApiClient mGoogleApiClient;
         private ProgressDialog mProgressDialog;
@@ -51,42 +56,45 @@ public class login_gg extends AppCompatActivity implements
         private ImageView imgProfilePic;
         private TextView txtName, txtEmail;
 
+
         //add
         private Context context;
         @Override
         protected void onCreate(Bundle savedInstanceState) {
+            setTheme(R.style.AppTheme);
             super.onCreate(savedInstanceState);
-            setContentView(R.layout.login);
 
-            btnSignIn = (SignInButton) findViewById(R.id.btn_sign_in);
-            btnSignOut = (Button) findViewById(R.id.btn_sign_out);
-            btnRevokeAccess = (Button) findViewById(R.id.btn_revoke_access);
-            llProfileLayout = (LinearLayout) findViewById(R.id.llProfile);
-            imgProfilePic = (ImageView) findViewById(R.id.imgProfilePic);
-            txtName = (TextView) findViewById(R.id.txtName);
-            txtEmail = (TextView) findViewById(R.id.txtEmail);
+                setContentView(R.layout.login);
 
-            btnSignIn.setOnClickListener(this);
-            btnSignOut.setOnClickListener(this);
-            btnRevokeAccess.setOnClickListener(this);
+                btnSignIn = (SignInButton) findViewById(R.id.btn_sign_in);
+                btnSignOut = (Button) findViewById(R.id.btn_sign_out);
+                btnRevokeAccess = (Button) findViewById(R.id.btn_revoke_access);
+                llProfileLayout = (LinearLayout) findViewById(R.id.llProfile);
+                imgProfilePic = (ImageView) findViewById(R.id.imgProfilePic);
+                txtName = (TextView) findViewById(R.id.txtName);
+                txtEmail = (TextView) findViewById(R.id.txtEmail);
 
-            GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
-                    .requestEmail()
-                    .build();
+                btnSignIn.setOnClickListener(this);
+                btnSignOut.setOnClickListener(this);
+                btnRevokeAccess.setOnClickListener(this);
 
-            // ATTENTION: This "addApi(AppIndex.API)"was auto-generated to implement the App Indexing API.
-            // See https://g.co/AppIndexing/AndroidStudio for more information.
-            mGoogleApiClient = new GoogleApiClient.Builder(this)
-                    .enableAutoManage(this, this)
-                    .addApi(Auth.GOOGLE_SIGN_IN_API, gso)
-                    .addApi(AppIndex.API).build();
+                GoogleSignInOptions gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
+                        .requestEmail()
+                        .build();
 
-            // Customizing G+ button
-            btnSignIn.setSize(SignInButton.SIZE_STANDARD);
-            btnSignIn.setScopes(gso.getScopeArray());
+                // ATTENTION: This "addApi(AppIndex.API)"was auto-generated to implement the App Indexing API.
+                // See https://g.co/AppIndexing/AndroidStudio for more information.
+                mGoogleApiClient = new GoogleApiClient.Builder(this)
+                        .enableAutoManage(this, this)
+                        .addApi(Auth.GOOGLE_SIGN_IN_API, gso)
+                        .addApi(AppIndex.API).build();
+
+                // Customizing G+ button
+                btnSignIn.setSize(SignInButton.SIZE_STANDARD);
+                btnSignIn.setScopes(gso.getScopeArray());
+
+
         }
-
-
     private void signIn() {
         Intent signInIntent = Auth.GoogleSignInApi.getSignInIntent(mGoogleApiClient);
         startActivityForResult(signInIntent, RC_SIGN_IN);
@@ -94,7 +102,7 @@ public class login_gg extends AppCompatActivity implements
     }
 
 
-    public void signOut() {
+    private void signOut() {
         Auth.GoogleSignInApi.signOut(mGoogleApiClient).setResultCallback(
                 new ResultCallback<Status>() {
                     @Override
@@ -116,6 +124,7 @@ public class login_gg extends AppCompatActivity implements
 
     private void handleSignInResult(GoogleSignInResult result) {
         Log.d(TAG, "handleSignInResult:" + result.isSuccess());
+
         if (result.isSuccess()) {
             // Signed in successfully, show authenticated UI.
             GoogleSignInAccount acct = result.getSignInAccount();
@@ -123,7 +132,9 @@ public class login_gg extends AppCompatActivity implements
             Log.e(TAG, "display name: " + acct.getDisplayName());
 
             String personName = acct.getDisplayName();
-            String personPhotoUrl = acct.getPhotoUrl().toString();
+
+                Uri personPhotoUrl = acct.getPhotoUrl();
+
             String email = acct.getEmail();
 
             Log.e(TAG, "Name: " + personName + ", email: " + email
@@ -176,9 +187,11 @@ public class login_gg extends AppCompatActivity implements
                 // Get account information
                  String mFullName = acct.getDisplayName();
                 String mEmail = acct.getEmail();
-                SharePref sharePref;
+               SharePref sharePref;
                 sharePref = SharePref.getInstance();
                 sharePref.saveISLogged_IN(this, true);
+  //              SharedPreferences settings = getSharedPreferences(SyncStateContract.Constants.ACCOUNT_NAME,MODE_PRIVATE);
+
                 //compare register email here
 
 
@@ -296,5 +309,15 @@ public class login_gg extends AppCompatActivity implements
         AppIndex.AppIndexApi.end(mGoogleApiClient, getIndexApiAction());
         mGoogleApiClient.disconnect();
     }
+
+    @Override
+    public void onDestroy(){
+        super.onDestroy();
+        if ( mProgressDialog!=null && mProgressDialog.isShowing() ){
+            mProgressDialog.cancel();
+        }
+    }
+
+
 }
 

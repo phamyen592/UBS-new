@@ -4,28 +4,32 @@
         "source": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
-        "source": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_header.xml"
-    },
-    {
         "merged": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
         "source": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_item_material.xml"
     },
     {
-        "merged": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
-        "source": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar_include.xml"
+        "merged": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/res/merged/debug/layout/activity_validation.xml",
+        "source": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/src/main/res/layout/activity_validation.xml"
+    },
+    {
+        "merged": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_header.xml"
     },
     {
         "merged": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
         "source": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_content_include.xml"
+        "merged": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar_include.xml"
     },
     {
         "merged": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
         "source": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_content_include.xml"
     },
     {
         "merged": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
@@ -40,16 +44,16 @@
         "source": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_material.xml"
+        "merged": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_select_dialog_material.xml"
     },
     {
         "merged": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
         "source": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_select_dialog_material.xml"
+        "merged": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_material.xml"
     },
     {
         "merged": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
@@ -68,12 +72,12 @@
         "source": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
-        "source": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_tab_text.xml"
-    },
-    {
         "merged": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
         "source": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_tab_text.xml"
     },
     {
         "merged": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
@@ -202,6 +206,14 @@
     {
         "merged": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
         "source": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/res/merged/debug/layout/activity_mail_sender.xml",
+        "source": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/src/main/res/layout/activity_mail_sender.xml"
+    },
+    {
+        "merged": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/res/merged/debug/layout/activity_send_email.xml",
+        "source": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/src/main/res/layout/activity_send_email.xml"
     },
     {
         "merged": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
