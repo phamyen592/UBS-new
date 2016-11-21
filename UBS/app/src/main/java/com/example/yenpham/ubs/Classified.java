@@ -1,4 +1,4 @@
-package com.ubs.thaonguyen.databaseubs;
+package com.example.yenpham.ubs;
 
 /**
  * Created by ThaoNguyen on 11/13/16.
