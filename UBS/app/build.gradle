@@ -50,10 +50,11 @@ dependencies {
         exclude group: 'org.apache.httpcomponents'
 
     }
-//    compile project(':javax.mail')
+    //    compile project(':javax.mail')
     compile files('/Users/Yenpham/AndroidStudioProjects/UBS/UBS/libs/activation.jar')
     compile files('/Users/Yenpham/AndroidStudioProjects/UBS/UBS/libs/additionnal.jar')
     compile files('/Users/Yenpham/AndroidStudioProjects/UBS/UBS/libs/mail.jar')
+    compile files('/Users/Yenpham/AndroidStudioProjects/UBS/UBS/javax.mail.jar')
 }
 
 
