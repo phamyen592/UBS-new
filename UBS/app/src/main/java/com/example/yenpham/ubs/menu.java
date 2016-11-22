@@ -32,11 +32,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.logging.Handler;
 
 public class menu extends AppCompatActivity implements  GoogleApiClient.OnConnectionFailedListener{
-
-
-
-
-
+    protected Button us;
     protected Button logout;
     /**
      * ATTENTION: This was auto-generated to implement the App Indexing API.
@@ -47,6 +43,7 @@ public class menu extends AppCompatActivity implements  GoogleApiClient.OnConnec
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
         setTheme(R.style.AppTheme);
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_menu);
@@ -68,6 +65,10 @@ public class menu extends AppCompatActivity implements  GoogleApiClient.OnConnec
 
             }
         });
+        moveToUs();
+    }
+    public void moveToAboutUs (){
+
     }
 
 
@@ -151,5 +152,17 @@ public class menu extends AppCompatActivity implements  GoogleApiClient.OnConnec
     }
 
 
+
+    public void moveToUs (){
+        us = (Button)findViewById(R.id.aboutUs);
+        us.setOnClickListener( new View.OnClickListener(){
+            @Override
+            public void onClick(View v) {
+                Intent reg= new Intent(menu.this, aboutUS.class);
+                startActivity(reg);
+            }
+
+        });
+    }
 
 }

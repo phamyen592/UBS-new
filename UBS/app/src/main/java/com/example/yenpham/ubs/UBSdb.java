@@ -1,4 +1,4 @@
-package com.ubs.thaonguyen.databaseubs;
+package com.example.yenpham.ubs;
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;

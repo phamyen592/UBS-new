@@ -1,23 +1,23 @@
 [
     {
-        "outputFile": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml",
+        "outputFile": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 105,
-                    "endColumn": 236,
-                    "endOffset": 337
+                    "endColumn": 109,
+                    "endOffset": 210
                 },
                 "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-si/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 329,
-                        "endColumn": 236,
-                        "endOffset": 561
+                        "startOffset": 340,
+                        "endColumn": 109,
+                        "endOffset": 445
                     }
                 }
             },
@@ -25,18 +25,18 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 342,
-                    "endColumn": 129,
-                    "endOffset": 467
+                    "startOffset": 215,
+                    "endColumn": 185,
+                    "endOffset": 396
                 },
                 "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-si/values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 566,
-                        "endColumn": 129,
-                        "endOffset": 691
+                        "startOffset": 450,
+                        "endColumn": 185,
+                        "endOffset": 631
                     }
                 }
             },
@@ -44,18 +44,18 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 472,
-                    "endColumn": 185,
-                    "endOffset": 653
+                    "startOffset": 401,
+                    "endColumn": 125,
+                    "endOffset": 522
                 },
                 "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-si/values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 696,
-                        "endColumn": 185,
-                        "endOffset": 877
+                        "startOffset": 636,
+                        "endColumn": 125,
+                        "endOffset": 757
                     }
                 }
             },
@@ -63,18 +63,18 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 658,
-                    "endColumn": 125,
-                    "endOffset": 779
+                    "startOffset": 527,
+                    "endColumn": 114,
+                    "endOffset": 637
                 },
                 "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-si/values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 882,
-                        "endColumn": 125,
-                        "endOffset": 1003
+                        "startOffset": 762,
+                        "endColumn": 114,
+                        "endOffset": 872
                     }
                 }
             },
@@ -82,18 +82,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 784,
-                    "endColumn": 126,
-                    "endOffset": 906
+                    "startOffset": 642,
+                    "endColumn": 201,
+                    "endOffset": 839
                 },
                 "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-si/values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 1008,
-                        "endColumn": 126,
-                        "endOffset": 1130
+                        "startOffset": 877,
+                        "endColumn": 201,
+                        "endOffset": 1074
                     }
                 }
             },
@@ -101,18 +101,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 911,
-                    "endColumn": 201,
-                    "endOffset": 1108
+                    "startOffset": 844,
+                    "endColumn": 207,
+                    "endOffset": 1047
                 },
                 "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-si/values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 1135,
-                        "endColumn": 201,
-                        "endOffset": 1332
+                        "startOffset": 1079,
+                        "endColumn": 207,
+                        "endOffset": 1282
                     }
                 }
             },
@@ -120,18 +120,18 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 1113,
-                    "endColumn": 207,
-                    "endOffset": 1316
+                    "startOffset": 1052,
+                    "endColumn": 125,
+                    "endOffset": 1173
                 },
                 "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-si/values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1337,
-                        "endColumn": 207,
-                        "endOffset": 1540
+                        "startOffset": 1287,
+                        "endColumn": 125,
+                        "endOffset": 1408
                     }
                 }
             },
@@ -139,18 +139,18 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 1321,
-                    "endColumn": 125,
-                    "endOffset": 1442
+                    "startOffset": 1178,
+                    "endColumn": 126,
+                    "endOffset": 1300
                 },
                 "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-si/values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1545,
-                        "endColumn": 125,
-                        "endOffset": 1666
+                        "startOffset": 1413,
+                        "endColumn": 126,
+                        "endOffset": 1535
                     }
                 }
             },
@@ -158,18 +158,18 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 1447,
-                    "endColumn": 178,
-                    "endOffset": 1621
+                    "startOffset": 1305,
+                    "endColumn": 229,
+                    "endOffset": 1530
                 },
                 "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/res/values-si/values.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 1671,
-                        "endColumn": 178,
-                        "endOffset": 1845
+                        "startOffset": 343,
+                        "endColumn": 229,
+                        "endOffset": 568
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1626,
-                    "endColumn": 124,
-                    "endOffset": 1746
+                    "startOffset": 1535,
+                    "endColumn": 238,
+                    "endOffset": 1769
                 },
                 "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-si/values.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1850,
-                        "endColumn": 124,
-                        "endOffset": 1970
+                        "startOffset": 1540,
+                        "endColumn": 238,
+                        "endOffset": 1774
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1751,
-                    "endColumn": 156,
-                    "endOffset": 1903
+                    "startOffset": 1774,
+                    "endColumn": 119,
+                    "endOffset": 1889
                 },
                 "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-si/values.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1975,
-                        "endColumn": 156,
-                        "endOffset": 2127
+                        "startOffset": 1779,
+                        "endColumn": 119,
+                        "endOffset": 1894
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1908,
-                    "endColumn": 114,
-                    "endOffset": 2018
+                    "startOffset": 1894,
+                    "endColumn": 116,
+                    "endOffset": 2006
                 },
                 "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-si/values.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 2132,
-                        "endColumn": 114,
-                        "endOffset": 2242
+                        "startOffset": 1899,
+                        "endColumn": 116,
+                        "endOffset": 2011
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 2023,
-                    "endColumn": 126,
-                    "endOffset": 2145
+                    "startOffset": 2011,
+                    "endColumn": 186,
+                    "endOffset": 2193
                 },
                 "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-si/values.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 2247,
-                        "endColumn": 126,
-                        "endOffset": 2369
+                        "startOffset": 2016,
+                        "endColumn": 186,
+                        "endOffset": 2198
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 2150,
-                    "endColumn": 187,
-                    "endOffset": 2333
+                    "startOffset": 2198,
+                    "endColumn": 132,
+                    "endOffset": 2326
                 },
                 "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-si/values.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 2374,
-                        "endColumn": 187,
-                        "endOffset": 2557
+                        "startOffset": 2203,
+                        "endColumn": 132,
+                        "endOffset": 2331
                     }
                 }
             },
@@ -272,18 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 2338,
-                    "endColumn": 151,
-                    "endOffset": 2485
+                    "startOffset": 2331,
+                    "endColumn": 202,
+                    "endOffset": 2529
                 },
                 "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-si/values.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 2562,
-                        "endColumn": 151,
-                        "endOffset": 2709
+                        "startOffset": 2336,
+                        "endColumn": 202,
+                        "endOffset": 2534
                     }
                 }
             },
@@ -291,18 +291,18 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 2490,
-                    "endColumn": 171,
-                    "endOffset": 2657
+                    "startOffset": 2534,
+                    "endColumn": 135,
+                    "endOffset": 2665
                 },
                 "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-si/values.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 2714,
-                        "endColumn": 171,
-                        "endOffset": 2881
+                        "startOffset": 2539,
+                        "endColumn": 135,
+                        "endOffset": 2670
                     }
                 }
             },
@@ -310,18 +310,18 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 2662,
-                    "endColumn": 125,
-                    "endOffset": 2783
+                    "startOffset": 2670,
+                    "endColumn": 190,
+                    "endOffset": 2856
                 },
                 "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-si/values.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 2886,
-                        "endColumn": 125,
-                        "endOffset": 3007
+                        "startOffset": 2675,
+                        "endColumn": 190,
+                        "endOffset": 2861
                     }
                 }
             },
@@ -329,18 +329,18 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 2788,
-                    "endColumn": 172,
-                    "endOffset": 2956
+                    "startOffset": 2861,
+                    "endColumn": 102,
+                    "endOffset": 2959
                 },
                 "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-si/values.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 3012,
-                        "endColumn": 172,
-                        "endOffset": 3180
+                        "startOffset": 2866,
+                        "endColumn": 102,
+                        "endOffset": 2964
                     }
                 }
             },
@@ -348,18 +348,18 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 2961,
-                    "endColumn": 128,
-                    "endOffset": 3085
+                    "startOffset": 2964,
+                    "endColumn": 90,
+                    "endOffset": 3050
                 },
                 "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-si/values.xml",
                     "position": {
-                        "startLine": 22,
+                        "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 3185,
-                        "endColumn": 128,
-                        "endOffset": 3309
+                        "startOffset": 2969,
+                        "endColumn": 90,
+                        "endOffset": 3055
                     }
                 }
             },
@@ -367,227 +367,18 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 3090,
-                    "endColumn": 229,
-                    "endOffset": 3315
-                },
-                "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/res/values-si/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 330,
-                        "endColumn": 229,
-                        "endOffset": 555
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 3320,
-                    "endColumn": 238,
-                    "endOffset": 3554
-                },
-                "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 3314,
-                        "endColumn": 238,
-                        "endOffset": 3548
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 3559,
-                    "endColumn": 119,
-                    "endOffset": 3674
-                },
-                "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 3553,
-                        "endColumn": 119,
-                        "endOffset": 3668
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 3679,
-                    "endColumn": 116,
-                    "endOffset": 3791
-                },
-                "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 3673,
-                        "endColumn": 116,
-                        "endOffset": 3785
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 3796,
-                    "endColumn": 186,
-                    "endOffset": 3978
-                },
-                "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 3790,
-                        "endColumn": 186,
-                        "endOffset": 3972
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 3983,
-                    "endColumn": 132,
-                    "endOffset": 4111
-                },
-                "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 3977,
-                        "endColumn": 132,
-                        "endOffset": 4105
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 4116,
-                    "endColumn": 202,
-                    "endOffset": 4314
-                },
-                "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 4110,
-                        "endColumn": 202,
-                        "endOffset": 4308
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 28,
-                    "startColumn": 4,
-                    "startOffset": 4319,
-                    "endColumn": 135,
-                    "endOffset": 4450
-                },
-                "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 4313,
-                        "endColumn": 135,
-                        "endOffset": 4444
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 29,
-                    "startColumn": 4,
-                    "startOffset": 4455,
-                    "endColumn": 190,
-                    "endOffset": 4641
-                },
-                "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 4449,
-                        "endColumn": 190,
-                        "endOffset": 4635
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 30,
-                    "startColumn": 4,
-                    "startOffset": 4646,
-                    "endColumn": 102,
-                    "endOffset": 4744
-                },
-                "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
-                    "position": {
-                        "startLine": 31,
-                        "startColumn": 4,
-                        "startOffset": 4640,
-                        "endColumn": 102,
-                        "endOffset": 4738
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 31,
-                    "startColumn": 4,
-                    "startOffset": 4749,
-                    "endColumn": 90,
-                    "endOffset": 4835
-                },
-                "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 4743,
-                        "endColumn": 90,
-                        "endOffset": 4829
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 32,
-                    "startColumn": 4,
-                    "startOffset": 4840,
+                    "startOffset": 3055,
                     "endColumn": 108,
-                    "endOffset": 4944
+                    "endOffset": 3159
                 },
                 "from": {
-                    "file": "/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-si/values.xml",
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-si/values.xml",
                     "position": {
-                        "startLine": 33,
+                        "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 4834,
+                        "startOffset": 3060,
                         "endColumn": 108,
-                        "endOffset": 4938
+                        "endOffset": 3164
                     }
                 }
             }

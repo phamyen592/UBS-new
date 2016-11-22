@@ -36,10 +36,10 @@ public class firstTimeLogin extends AppCompatActivity {
     private EditText BOB;
     private EditText major;
     private Button submit;
-
     private Dialog check;
     private String utemail;
     private int code;
+    private Button cancel;
 
 
     @Override
@@ -47,6 +47,7 @@ public class firstTimeLogin extends AppCompatActivity {
         setTheme(R.style.AppTheme);
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_first_time_login);
+        cancelRegistration ();
         fName = (EditText) findViewById(R.id.fName);
         lName = (EditText) findViewById(R.id.lName);
         phone = (EditText) findViewById(R.id.phone);
@@ -214,7 +215,17 @@ public class firstTimeLogin extends AppCompatActivity {
         return result;
     }
 
+    public void cancelRegistration (){
+        cancel = (Button)findViewById(R.id.cancel);
+        cancel.setOnClickListener( new View.OnClickListener(){
+            @Override
+            public void onClick(View v) {
+                Intent cancelReg= new Intent(firstTimeLogin.this, welcom_class.class);
+                startActivity(cancelReg);
+            }
 
+        });
+    }
 
 }
 

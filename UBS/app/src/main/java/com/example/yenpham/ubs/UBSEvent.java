@@ -1,6 +1,5 @@
-package com.ubs.thaonguyen.databaseubs;
-/**
- * Created by ThaoNguyen on 11/13/16.
+package com.example.yenpham.ubs;
+ /* Created by ThaoNguyen on 11/13/16.
  */
 
 public class UBSEvent {

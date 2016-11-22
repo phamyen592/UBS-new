@@ -3,372 +3,381 @@
 
     <item
         is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_d9afe03f567a8304cc8dcb857eda29b6cde2facf/classes.dex" />
+        sha1="465f40f840e583f8b7421a3aacf3fbf08c28f00a">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.6.1_fd1f8afbbdb1d5d5698709bb7d3cfaa8a03bd777/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.2.1_c73662c2f70bbd11f251d9d1488412d5c44821be/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_caba09d51e66bfdb9389d65f0fb498322c0c554a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1b6a23367fa193ad9834d9a67039150617aef33a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_543b5afb36a29ef9ffd7b3dd6bdd9630a204eaa8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_1fba131caf57056914e249e80ff4f7d9d0a4d8bc/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/libs/additionnal.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/2/additionnal_59ed18de5866324943b1786909eddfd22f97bf4f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_5c96668c165c2dd44d1c03192fd1434e507ff49a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/17.0/463f8378feba44df7ba7cd9272d01837dad62b36/guava-jdk5-17.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-jdk5-17.0_b456b1f6f32e94efefc768713aca9ba2f405ef77/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.2.1_6acfca12c8a163631b16c279fb76f2d0cf575f84/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_c36bfe6ec1e53d9cb1cf2040be1f48f18f8394d8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.22.0/7a0fe12b7d8189a821934d6f9d6586d00180e461/google-api-client-android-1.22.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7a0fe12b7d8189a821934d6f9d6586d00180e461">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-android-1.22.0_a1bd94b39ee8d7c451459b0e7e93f309c145e81e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.22.0/d441fc58329c4a4c067acec04ac361627f66ecc8/google-http-client-1.22.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-1.22.0_43f97c22105d79ba5015c48e43d5804e39afcb79/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.1.3_099ed24151def275fee3944506f99878cd661feb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.2.1_7e0d7d5c9d8d2686cb1bc958e99adc847a95c940/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_82c552e5897f8303aadb40c06de43146cde82d39/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_193930c994d08de7e32a06120888d27a35b18c76/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.22.0/1d63f369ac78e4838a3197147012026e791008cb/google-oauth-client-1.22.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="1d63f369ac78e4838a3197147012026e791008cb">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-oauth-client-1.22.0_7fc8dac164797f19ae3ef56eb82a681552274f57/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_6d9009c9d45c7710cec70bbde58516107ecacb67/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_3c7a09315f587dac6c657f53cd32b0b7385b2470/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-gmail/v1-rev53-1.22.0/64a76c767429c99e5b159fe03e561a9b9a34b4a2/google-api-services-gmail-v1-rev53-1.22.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="64a76c767429c99e5b159fe03e561a9b9a34b4a2">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-services-gmail-v1-rev53-1.22.0_38adc58a25138e4f7b5b39f64f08e804b75f07d5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/libs/mail.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="428e267abff0d10802ccde86b915da2c20471160">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/2/mail_e2b12953e8fb16c865668e63e4eca5caf4ab281e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.22.0/6d1e1a76a16a244ab2f41775791be1dd0ec2878a/google-http-client-android-1.22.0.jar"
+        jar="/Users/thangtran/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.22.0/6d1e1a76a16a244ab2f41775791be1dd0ec2878a/google-http-client-android-1.22.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="6d1e1a76a16a244ab2f41775791be1dd0ec2878a">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-android-1.22.0_60be62361ac22a7a2bed0ca07038716add304533/classes.dex" />
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-android-1.22.0_8abf2b2ebe69408c24d1f5acf8e322b8b35a1d2c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Yenpham/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.22.0/244350c0c845c583717ade13f5666a452fd0cfa/google-api-client-1.22.0.jar"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_7497ae2c52c41c679f6323ca12d0a151f4750724/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_6e0f4ad586e20e97a3d9aa315bc4b35ce49e5444/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_6c0c08579eede848c62b5d13bed458f5cb8dd82c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/libs/additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/2/additionnal_680a22a93dd87e08824abd429f3368f52e809448/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.22.0/244350c0c845c583717ade13f5666a452fd0cfa/google-api-client-1.22.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="0244350c0c845c583717ade13f5666a452fd0cfa">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-1.22.0_dfbc849dfecc385b13d3930652da109defabf2d6/classes.dex" />
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-1.22.0_b9d407eb77c6dd6ed9cd449376454d5b961a061c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/libs/mail.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="fac7539dfc3850fcdc4487d4ab43c5ea562be5ad">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3b11d8ecc3208addb833dbc78398649bb4ba70c0/classes.dex" />
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/2/mail_058cd6c23c4a35cd4535a5bbd386d14963276191/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/libs/activation.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/2/activation_3046a1fd1da221f416ed3278ba8c2c03343398fa/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.22.0/cc014d64ae11117e159d334c99d9c246d9b36f44/google-http-client-jackson2-1.22.0.jar"
+        jar="/Users/thangtran/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.22.0/cc014d64ae11117e159d334c99d9c246d9b36f44/google-http-client-jackson2-1.22.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="cc014d64ae11117e159d334c99d9c246d9b36f44">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-jackson2-1.22.0_e7e45a1106114c2fde774ae405540680dc0baf8d/classes.dex" />
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-jackson2-1.22.0_5833b33bf4f6079e2aa87643cf3f62306ef4d188/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.2.1/jars/classes.jar"
+        jar="/Users/thangtran/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-gmail/v1-rev53-1.22.0/64a76c767429c99e5b159fe03e561a9b9a34b4a2/google-api-services-gmail-v1-rev53-1.22.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.2.1_4fde000112aa1d8ec670c55bc72a702703e2b282/classes.dex" />
+        sha1="64a76c767429c99e5b159fe03e561a9b9a34b4a2">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-services-gmail-v1-rev53-1.22.0_8635394d9ebfe0951e1aa5fa25cdcd9dfaeac694/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1c3515e21832ddd07a6e9ff90953dc19901b55b2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.2.1_7b5f17489306cbea03bbf66505120c78d126224f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jar="/Users/thangtran/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_5beef462c3c252a3940f63545dd893d0542fbd0b/classes.dex" />
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_4e23203bede9fa858df12f36b87168201c61ed39/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b0ed0aea8cdb5f32ff49327eab27a2daf560a190/classes.dex" />
+        sha1="cc39b4bcc9e7062891db90d5a752fa9e4986f447">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.6.1_5111a673b7337c5c06b5fd7bad1ec3e68722683a/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/jars/classes.jar"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.2.1_08aff3ed166dca9f77df71bfb929d3ce24961f27/classes.dex" />
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_b37a20bebb35339ca0066a393b8a6450da182e40/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/pub.devrel/easypermissions/0.1.5/jars/classes.jar"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="2ffd97c466e0021572f3c7333839c71ecdf393ed">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/pub.devrel-easypermissions-0.1.5_623b501123f7e0c7e1f456edc0f044cb89ea15d8/classes.dex" />
+        sha1="be55fbf0b5c334a5fd26d7fdc9486e857f2ec40e">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bab26f67129e441567c5e8d0dccd70b948a986ea/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Yenpham/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_07bb26c7832eab7b5db35fc77cd85cf5d711abc7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_da090f465c2ac45bac971703d13464f00f1f0aeb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.1/f7be08ec23c21485b9b5a1cf1654c2ec8c58168d/jsr305-3.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="f7be08ec23c21485b9b5a1cf1654c2ec8c58168d">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.1_3bda1c66b34d9565722dc55d9527210c19eb8f2a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ee19e33a798d11a5cf309a40155b8223fadcdeea">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.2.1_b3f07f06b33b2dd5a140667f331c300364d02226/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="96120b89cf0aca0bba8fc7fb5faaefc5a82de391">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c481b62c835b7e1a554e168355aec2049adf57d2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_51f95279504457de8083a703418faa4ab6223941/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_c65ef0f28b45047452435c5155a9355faaa79d63/classes.dex" />
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_aa4cd00fea8a0334a79e1643363af9ece01c5632/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/pub.devrel/easypermissions/0.1.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2ffd97c466e0021572f3c7333839c71ecdf393ed">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/pub.devrel-easypermissions-0.1.5_435d7a610b71ced777d2550aa53fb2055c2a0cf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.1/f7be08ec23c21485b9b5a1cf1654c2ec8c58168d/jsr305-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f7be08ec23c21485b9b5a1cf1654c2ec8c58168d">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.1_8d8e2c4ac2663c069e8e318d0e8a765ce3aab0d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c7debbf648ac9df820ffdcc038aa8518f7a23271/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_de1868f140069ce398cf226f742f25a37b0d1f59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/17.0/463f8378feba44df7ba7cd9272d01837dad62b36/guava-jdk5-17.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-jdk5-17.0_b4f6b80bfc5ba471beca346b4c88619b5d56c3fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_beb7dc752422d9910d3fe1c019409cc33018df7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1c10852bd86d29eb765193158db49d5d4f4d6ed1">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cbf1f7732a6f19ef5ca809e3902b7b98632aa6ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8f2d48e540954abc84b7197c118de115887fdd1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_76d0e69c7a8a788bd7dfbb4918a543527aaca077/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.22.0/1d63f369ac78e4838a3197147012026e791008cb/google-oauth-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1d63f369ac78e4838a3197147012026e791008cb">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-oauth-client-1.22.0_559826068cc42fc1937ea02f0e47608093dc9194/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.1.3_d097e75124a7c77c07a819019eb88ad844225ee2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.22.0/d441fc58329c4a4c067acec04ac361627f66ecc8/google-http-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-1.22.0_dc9faae155307b8ee5012bde813657856c424d4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_ebebfa3436ae84f69502f7b987edf46d04902ebb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_6dee242597bbcabbd5ce809827cec87df4707dde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.22.0/7a0fe12b7d8189a821934d6f9d6586d00180e461/google-api-client-android-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7a0fe12b7d8189a821934d6f9d6586d00180e461">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-android-1.22.0_14fa12bdf60fba70da1aa8cc1b0ca6b9f69344b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="da3f763afd39da1c947d9442847c837e9182a09f">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.6.1_4d8a6ed474cabc7821f998ba067a90a36c6a1870/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_3b99b706d1b2c6b25776a96109bf57b3a277f505/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9e53c3fbf3e1f91ddd2df8c0cf25704ef1304693/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_32c5cd673be4ddc2a4d99a69e2976dbc6d367551/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.1_11d7cb93f83aa7188498f1c28bd2ebefed42da9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_59468b01d11b962dae8680d48a2eb28c446bb126/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_09c4796e157cdfed22930dd1ed427f4f855b6af3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/javax.mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="be23e70811abc071a49ebc8b68c8b23d062a5d3b">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/2/javax.mail_b975e40d43dcd783c1d7126db386f437193ed2a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0a57d3d1414b6eb884c60bfe7f5563506f5988bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/activation/activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/2/activation_55a24c6de2a128e300f8b1b0a1673619b9f9b6ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_7fa423a84156e826d7b9777c317928a1cec73f23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_9872900cc9b428391702eaac85d1884c2336274f/classes.dex" />
     </item>
 
 </items>

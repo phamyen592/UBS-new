@@ -8,6 +8,7 @@
         android:minSdkVersion="19"
         android:targetSdkVersion="24" />
 
+    <uses-permission android:name="android.permission.CALL_PHONE" />
     <!-- https://mvnrepository.com/artifact/javax.mail/mail -->
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -47,6 +48,7 @@
         <activity android:name="com.example.yenpham.ubs.sendEmail" />
         <activity android:name="com.example.yenpham.ubs.MainActivity" />
         <activity android:name="com.example.yenpham.ubs.MailSenderActivity" />
+        <activity android:name="com.example.yenpham.ubs.aboutUS" />
         <activity
             android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
             android:excludeFromRecents="true"
