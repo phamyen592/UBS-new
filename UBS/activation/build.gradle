@@ -1,2 +1,5 @@
 configurations.maybeCreate("default")
 artifacts.add("default", file('activation.jar'))
+/*dependencies {
+    compile files('/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/libs/activation.jar')
+}*/

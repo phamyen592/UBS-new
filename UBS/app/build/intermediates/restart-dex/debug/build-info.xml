@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86_64,x86"
-    api-level="24"
-    density="420dpi"
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="192959136253609"
-    token="-16873897327465985"
+    timestamp="329788217740535"
+    token="-8022217475595615490"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="6199" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1485" />
+        duration="0" />
     <task
         name="verifier"
-        duration="153" />
+        duration="0" />
 
     <artifact
-        location="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/outputs/apk/app-debug.apk"
+        location="/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="192959136253609"
+        timestamp="329788217740535"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/Yenpham/AndroidStudioProjects/UBS/UBS/app/build/outputs/apk/app-debug.apk"
+            location="/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
 

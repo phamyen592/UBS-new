@@ -1,2 +1,7 @@
 configurations.maybeCreate("default")
 artifacts.add("default", file('mail.jar'))
+/*dependencies {
+    compile files('/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/libs/mail.jar')
+    compile files('mail.jar')
+    compile files('/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/javax.mail.jar')
+}*/

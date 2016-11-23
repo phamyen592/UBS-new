@@ -1,11 +1,10 @@
-package com.ubs.thaonguyen.databaseubs;
+package com.example.yenpham.ubs;
+
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.*;
 import android.util.*;
-
-import org.w3c.dom.Comment;
 
 import java.util.ArrayList;
 
@@ -169,6 +168,32 @@ public class UBSdb extends SQLiteOpenHelper implements dbInterface {
         db.close();
         //log
         Log.d("deleteUser", user.toString());
+    }
+    public boolean GmailExist(String gmail){
+        String query = "SELECT  * FROM " + TABLE_USER+ "WHERE" + GMAIL + " =" + gmail;
+        // 2. get reference to writable DB
+        SQLiteDatabase db = this.getWritableDatabase();
+        try (Cursor cursor = db.rawQuery(query, null)) {
+            if (cursor.getCount()>0) {
+                cursor.close();
+                return true;
+            }
+            cursor.close();
+            return false;
+        }
+    }
+    public boolean MavMailExist(String mavMail){
+        String query = "SELECT  * FROM " + TABLE_USER+ "WHERE" + MAVEMAIL + " =" + mavMail;
+        // 2. get reference to writable DB
+        SQLiteDatabase db = this.getWritableDatabase();
+        try (Cursor cursor = db.rawQuery(query, null)) {
+            if (cursor.getCount()>0) {
+                cursor.close();
+                return true;
+            }
+            cursor.close();
+            return false;
+        }
     }
 
     public void addClubTopics(String clubTopics){
@@ -495,9 +520,29 @@ public class UBSdb extends SQLiteOpenHelper implements dbInterface {
         // 4. close
         db.close();
     }
-    public void getAdvertisement(){
-    }
-    public void updateAdvertisement(){
+    public ArrayList <String> getAdvertisement(){
+        ArrayList<String> adsList = new ArrayList<>();
+        // 1. build the query
+        String query = "SELECT  * FROM " + TABLE_ADVERTISEMENT;
+
+        // 2. get reference to writable DB
+        SQLiteDatabase db = this.getWritableDatabase();
+        try (Cursor cursor = db.rawQuery(query, null)) {
+            // 3. go over each row, build club and add it to list
+            if (cursor.moveToFirst()) {
+                do {
+                    String url;
+                    url = cursor.getString(1);
+                    cursor.close();
+                    // Add club to clubList
+                    adsList.add(url);
+                } while (cursor.moveToNext());
+                cursor.close();
+            }
+        }
+        Log.d("getAllAds()", adsList.toString());
+        // return clubList
+        return adsList;
     }
 
     public void addDiscussion(Discussion discussion){
@@ -614,7 +659,29 @@ public class UBSdb extends SQLiteOpenHelper implements dbInterface {
         db.close();
 
     }
-    public void getCategory(){
+    public ArrayList <String> getAllCategory(){
+        ArrayList<String> categoryList = new ArrayList<>();
+        // 1. build the query
+        String query = "SELECT  * FROM " + TABLE_CATEGORIES;
+
+        // 2. get reference to writable DB
+        SQLiteDatabase db = this.getWritableDatabase();
+        try (Cursor cursor = db.rawQuery(query, null)) {
+            // 3. go over each row, build club and add it to list
+            if (cursor.moveToFirst()) {
+                do {
+                    String cat;
+                    cat = cursor.getString(1);
+                    cursor.close();
+
+                    categoryList.add(cat);
+                } while (cursor.moveToNext());
+                cursor.close();
+            }
+        }
+        Log.d("getAllCategories()", categoryList.toString());
+        return categoryList;
+
     }
     public void updateCategory(){ // TO BE IMPLEMENTED
     }
@@ -647,9 +714,39 @@ public class UBSdb extends SQLiteOpenHelper implements dbInterface {
         // 4. close
         db.close();
     }
-    public void getSales(){
+    public ArrayList <Sales> getAllSales(){
+        ArrayList<Sales> SalesList = new ArrayList<>();
+        // 1. build the query
+        String query = "SELECT  * FROM " + TABLE_SALES;
+
+        // 2. get reference to writable DB
+        SQLiteDatabase db = this.getWritableDatabase();
+        try (Cursor cursor = db.rawQuery(query, null)) {
+            // 3. go over each row, build club and add it to list
+            Sales sale = new Sales();
+            if (cursor.moveToFirst()) {
+                do {
+                    int stringIndex = 0;
+                    sale.setClassifiedID(Integer.parseInt(cursor.getString(stringIndex)));
+                    sale.setProductName(cursor.getString(++stringIndex));
+                    sale.setPrice(Double.parseDouble(cursor.getString(++stringIndex)));
+                    sale.setCondition(cursor.getString(++stringIndex));
+                    sale.setPictures(cursor.getString(++stringIndex));
+                    sale.setCategoryName(cursor.getString(++stringIndex));
+                    sale.setDescription(cursor.getString(++stringIndex));
+                    cursor.close();
+                    // Add club to clubList
+                    SalesList.add(sale);
+                } while (cursor.moveToNext());
+                cursor.close();
+            }
+        }
+        Log.d("getAllSales()", SalesList.toString());
+        // return discussionList
+        return SalesList;
     }
     public void updateSales(){
+
 
     }
 
@@ -685,8 +782,34 @@ public class UBSdb extends SQLiteOpenHelper implements dbInterface {
         db.close();
 
     }
-    public void getHousing(){
+    public ArrayList <Housing> getHousing(){
+        ArrayList<Housing> housingList = new ArrayList<>();
+        // 1. build the query
+        String query = "SELECT  * FROM " + TABLE_CLASSIFIED + "NATURAL JOIN" + TABLE_HOUSING;
 
+        // 2. get reference to writable DB
+        SQLiteDatabase db = this.getWritableDatabase();
+        try (Cursor cursor = db.rawQuery(query, null)) {
+            // 3. go over each row, build club and add it to list
+            Housing housing = new Housing();
+            if (cursor.moveToFirst()) {
+                do {
+                    int stringIndex = 0;
+                    housing.setClassifiedID(Integer.parseInt(cursor.getString(stringIndex)));
+                    housing.setTitle(cursor.getString(++stringIndex));
+                    housing.setPosterID(Integer.parseInt(cursor.getString(++stringIndex)));
+                    housing.setDateTime(cursor.getString(++stringIndex));
+                    housing.setNumBed(Integer.parseInt(cursor.getString(++stringIndex)));
+                    housing.setNumBath(Integer.parseInt(cursor.getString(++stringIndex)));
+                    housing.setLocation(cursor.getString(++stringIndex));
+                    cursor.close();
+                    housingList.add(housing);
+                } while (cursor.moveToNext());
+                cursor.close();
+            }
+        }
+            Log.d("getAllHousing()", housingList.toString());
+            return housingList;
     }
     public void updateHousing(){
 

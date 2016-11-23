@@ -2,7 +2,6 @@
 apply plugin: 'com.android.application'
 
 
-
 android {
     compileSdkVersion 24
     buildToolsVersion "24.0.2"
@@ -48,12 +47,11 @@ dependencies {
     }
     compile('com.google.apis:google-api-services-gmail:v1-rev53-1.22.0') {
         exclude group: 'org.apache.httpcomponents'
-
     }
-//    compile project(':javax.mail')
-    compile files('/Users/Yenpham/AndroidStudioProjects/UBS/UBS/libs/activation.jar')
-    compile files('/Users/Yenpham/AndroidStudioProjects/UBS/UBS/libs/additionnal.jar')
-    compile files('/Users/Yenpham/AndroidStudioProjects/UBS/UBS/libs/mail.jar')
+    //    compile project(':javax.mail')
+    compile files('/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/javax.mail.jar')
+    compile files('/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/libs/activation.jar')
+    compile files('/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/libs/mail.jar')
 }
 
 
