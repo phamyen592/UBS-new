@@ -1,5 +1,8 @@
 package com.example.yenpham.ubs;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
 /**
  * Created by ThaoNguyen on 11/9/16.
  */

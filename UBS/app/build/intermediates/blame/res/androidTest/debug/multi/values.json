@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+=======
+        "outputFile": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 96
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/res/values/values.xml",
+=======
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/res/values/values.xml",
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

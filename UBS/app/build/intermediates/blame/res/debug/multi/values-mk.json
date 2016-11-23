@@ -1,23 +1,31 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+=======
+        "outputFile": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 105,
-                    "endColumn": 254,
-                    "endOffset": 355
+                    "endColumn": 108,
+                    "endOffset": 209
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-mk/values.xml",
+=======
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-mk/values.xml",
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 329,
-                        "endColumn": 254,
-                        "endOffset": 579
+                        "startOffset": 340,
+                        "endColumn": 108,
+                        "endOffset": 444
                     }
                 }
             },
@@ -25,18 +33,22 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 360,
-                    "endColumn": 135,
-                    "endOffset": 491
+                    "startOffset": 214,
+                    "endColumn": 192,
+                    "endOffset": 402
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-mk/values.xml",
+=======
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-mk/values.xml",
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 584,
-                        "endColumn": 135,
-                        "endOffset": 715
+                        "startOffset": 449,
+                        "endColumn": 192,
+                        "endOffset": 637
                     }
                 }
             },
@@ -44,18 +56,22 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 496,
-                    "endColumn": 192,
-                    "endOffset": 684
+                    "startOffset": 407,
+                    "endColumn": 134,
+                    "endOffset": 537
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-mk/values.xml",
+=======
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-mk/values.xml",
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 720,
-                        "endColumn": 192,
-                        "endOffset": 908
+                        "startOffset": 642,
+                        "endColumn": 134,
+                        "endOffset": 772
                     }
                 }
             },
@@ -63,18 +79,22 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 689,
-                    "endColumn": 134,
-                    "endOffset": 819
+                    "startOffset": 542,
+                    "endColumn": 111,
+                    "endOffset": 649
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-mk/values.xml",
+=======
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-mk/values.xml",
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 913,
-                        "endColumn": 134,
-                        "endOffset": 1043
+                        "startOffset": 777,
+                        "endColumn": 111,
+                        "endOffset": 884
                     }
                 }
             },
@@ -82,18 +102,22 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 824,
-                    "endColumn": 135,
-                    "endOffset": 955
+                    "startOffset": 654,
+                    "endColumn": 212,
+                    "endOffset": 862
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-mk/values.xml",
+=======
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-mk/values.xml",
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 1048,
-                        "endColumn": 135,
-                        "endOffset": 1179
+                        "startOffset": 889,
+                        "endColumn": 212,
+                        "endOffset": 1097
                     }
                 }
             },
@@ -101,18 +125,22 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 960,
+                    "startOffset": 867,
                     "endColumn": 212,
-                    "endOffset": 1168
+                    "endOffset": 1075
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-mk/values.xml",
+=======
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-mk/values.xml",
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 1184,
+                        "startOffset": 1102,
                         "endColumn": 212,
-                        "endOffset": 1392
+                        "endOffset": 1310
                     }
                 }
             },
@@ -120,6 +148,7 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
+<<<<<<< HEAD
                     "startOffset": 1173,
                     "endColumn": 212,
                     "endOffset": 1381
@@ -140,16 +169,24 @@
                     "startLine": 9,
                     "startColumn": 4,
                     "startOffset": 1386,
+=======
+                    "startOffset": 1080,
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
                     "endColumn": 134,
-                    "endOffset": 1516
+                    "endOffset": 1210
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-mk/values.xml",
+=======
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-mk/values.xml",
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
                     "position": {
-                        "startLine": 11,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1610,
+                        "startOffset": 1315,
                         "endColumn": 134,
+<<<<<<< HEAD
                         "endOffset": 1740
                     }
                 }
@@ -170,11 +207,15 @@
                         "startOffset": 1745,
                         "endColumn": 170,
                         "endOffset": 1911
+=======
+                        "endOffset": 1445
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 11,
                     "startColumn": 4,
                     "startOffset": 1692,
@@ -233,18 +274,26 @@
             {
                 "to": {
                     "startLine": 14,
+=======
+                    "startLine": 9,
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
                     "startColumn": 4,
-                    "startOffset": 2115,
+                    "startOffset": 1215,
                     "endColumn": 138,
-                    "endOffset": 2249
+                    "endOffset": 1349
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-mk/values.xml",
+=======
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-mk/values.xml",
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
                     "position": {
-                        "startLine": 16,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 2339,
+                        "startOffset": 1450,
                         "endColumn": 138,
+<<<<<<< HEAD
                         "endOffset": 2473
                     }
                 }
@@ -265,11 +314,15 @@
                         "startOffset": 2478,
                         "endColumn": 179,
                         "endOffset": 2653
+=======
+                        "endOffset": 1584
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
                     }
                 }
             },
             {
                 "to": {
+<<<<<<< HEAD
                     "startLine": 16,
                     "startColumn": 4,
                     "startOffset": 2434,
@@ -366,228 +419,279 @@
             {
                 "to": {
                     "startLine": 21,
+=======
+                    "startLine": 10,
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
                     "startColumn": 4,
-                    "startOffset": 3189,
+                    "startOffset": 1354,
                     "endColumn": 237,
-                    "endOffset": 3422
+                    "endOffset": 1587
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/res/values-mk/values.xml",
+=======
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/res/values-mk/values.xml",
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 330,
+                        "startOffset": 343,
                         "endColumn": 237,
-                        "endOffset": 563
+                        "endOffset": 576
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 3427,
+                    "startOffset": 1592,
                     "endColumn": 247,
-                    "endOffset": 3670
+                    "endOffset": 1835
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-mk/values.xml",
+=======
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-mk/values.xml",
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
                     "position": {
-                        "startLine": 23,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 3413,
+                        "startOffset": 1589,
                         "endColumn": 247,
-                        "endOffset": 3656
+                        "endOffset": 1832
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 3675,
+                    "startOffset": 1840,
                     "endColumn": 124,
-                    "endOffset": 3795
+                    "endOffset": 1960
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-mk/values.xml",
+=======
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-mk/values.xml",
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
                     "position": {
-                        "startLine": 24,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 3661,
+                        "startOffset": 1837,
                         "endColumn": 124,
-                        "endOffset": 3781
+                        "endOffset": 1957
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 3800,
+                    "startOffset": 1965,
                     "endColumn": 108,
-                    "endOffset": 3904
+                    "endOffset": 2069
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-mk/values.xml",
+=======
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-mk/values.xml",
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
                     "position": {
-                        "startLine": 25,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 3786,
+                        "startOffset": 1962,
                         "endColumn": 108,
-                        "endOffset": 3890
+                        "endOffset": 2066
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 3909,
+                    "startOffset": 2074,
                     "endColumn": 196,
-                    "endOffset": 4101
+                    "endOffset": 2266
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-mk/values.xml",
+=======
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-mk/values.xml",
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
                     "position": {
-                        "startLine": 26,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 3895,
+                        "startOffset": 2071,
                         "endColumn": 196,
-                        "endOffset": 4087
+                        "endOffset": 2263
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 4106,
+                    "startOffset": 2271,
                     "endColumn": 134,
-                    "endOffset": 4236
+                    "endOffset": 2401
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-mk/values.xml",
+=======
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-mk/values.xml",
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
                     "position": {
-                        "startLine": 27,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 4092,
+                        "startOffset": 2268,
                         "endColumn": 134,
-                        "endOffset": 4222
+                        "endOffset": 2398
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 4241,
+                    "startOffset": 2406,
                     "endColumn": 211,
-                    "endOffset": 4448
+                    "endOffset": 2613
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-mk/values.xml",
+=======
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-mk/values.xml",
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
                     "position": {
-                        "startLine": 28,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 4227,
+                        "startOffset": 2403,
                         "endColumn": 211,
-                        "endOffset": 4434
+                        "endOffset": 2610
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 4453,
+                    "startOffset": 2618,
                     "endColumn": 137,
-                    "endOffset": 4586
+                    "endOffset": 2751
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-mk/values.xml",
+=======
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-mk/values.xml",
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
                     "position": {
-                        "startLine": 29,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 4439,
+                        "startOffset": 2615,
                         "endColumn": 137,
-                        "endOffset": 4572
+                        "endOffset": 2748
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 4591,
+                    "startOffset": 2756,
                     "endColumn": 188,
-                    "endOffset": 4775
+                    "endOffset": 2940
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-mk/values.xml",
+=======
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-mk/values.xml",
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
                     "position": {
-                        "startLine": 30,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 4577,
+                        "startOffset": 2753,
                         "endColumn": 188,
-                        "endOffset": 4761
+                        "endOffset": 2937
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 4780,
+                    "startOffset": 2945,
                     "endColumn": 98,
-                    "endOffset": 4874
+                    "endOffset": 3039
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-mk/values.xml",
+=======
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-mk/values.xml",
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
                     "position": {
-                        "startLine": 31,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 4766,
+                        "startOffset": 2942,
                         "endColumn": 98,
-                        "endOffset": 4860
+                        "endOffset": 3036
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 31,
+                    "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 4879,
+                    "startOffset": 3044,
                     "endColumn": 93,
-                    "endOffset": 4968
+                    "endOffset": 3133
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-mk/values.xml",
+=======
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-mk/values.xml",
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
                     "position": {
-                        "startLine": 32,
+                        "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 4865,
+                        "startOffset": 3041,
                         "endColumn": 93,
-                        "endOffset": 4954
+                        "endOffset": 3130
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 32,
+                    "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 4973,
+                    "startOffset": 3138,
                     "endColumn": 107,
-                    "endOffset": 5076
+                    "endOffset": 3241
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/values-mk/values.xml",
+=======
+                    "file": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/res/values-mk/values.xml",
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
                     "position": {
-                        "startLine": 33,
+                        "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 4959,
+                        "startOffset": 3135,
                         "endColumn": 107,
-                        "endOffset": 5062
+                        "endOffset": 3238
                     }
                 }
             }

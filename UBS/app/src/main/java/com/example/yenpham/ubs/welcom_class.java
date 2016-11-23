@@ -12,8 +12,6 @@ import android.widget.Button;
 
 public class welcom_class extends AppCompatActivity {
 
-
-
     public Button exist;
     public Button newUser;
 

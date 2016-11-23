@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <merger version="3"><dataSet config="main"><source path="/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/src/debug/shaders"/></dataSet></merger>
+=======
+<merger version="3"><dataSet config="main"><source path="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/debug/shaders"/></dataSet></merger>
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d

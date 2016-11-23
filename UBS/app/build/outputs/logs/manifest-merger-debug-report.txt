@@ -1,5 +1,6 @@
 -- Merging decision tree log ---
 manifest
+<<<<<<< HEAD
 ADDED from /Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/src/main/AndroidManifest.xml:2:1-48:12
 	package
 		ADDED from /Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/src/main/AndroidManifest.xml:3:5-38
@@ -160,3 +161,173 @@ ADDED from [com.google.firebase:firebase-common:9.2.1] /Users/ThaoNguyen/Google 
 		ADDED from [com.google.firebase:firebase-common:9.2.1] /Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/AndroidManifest.xml:11:13-36
 	android:name
 		ADDED from [com.google.firebase:firebase-common:9.2.1] /Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/AndroidManifest.xml:9:13-58
+=======
+ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:5:5-69
+	android:name
+		ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:5:22-66
+uses-permission#android.permission.INTERNET
+ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:9:22-76
+application
+ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:11:5-45:19
+MERGED from [com.android.support:design:24.2.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-base:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-appindexing:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.1/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-common:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/AndroidManifest.xml:4:5-7:19
+MERGED from [pub.devrel:easypermissions:0.1.5] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/pub.devrel/easypermissions/0.1.5/AndroidManifest.xml:12:5-20
+activity#com.example.yenpham.ubs.welcom_class
+ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:20:13-45
+	android:theme
+		ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:19:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.example.yenpham.ubs.login_gg
+ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:27:9-29:37
+	android:label
+		ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:29:13-34
+	android:name
+		ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:28:13-37
+activity#com.example.yenpham.ubs.menu
+ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:30:9-42
+	android:name
+		ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:30:19-39
+activity#com.example.yenpham.ubs.firstTimeLogin
+ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:31:9-52
+	android:name
+		ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:31:19-49
+meta-data#com.google.android.gms.version
+ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:36:9-38:69
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:38:13-66
+	android:name
+		ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:37:13-58
+activity#com.example.yenpham.ubs.validation
+ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:40:9-48
+	android:name
+		ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:40:19-45
+activity#com.example.yenpham.ubs.sendEmail
+ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:41:9-47
+	android:name
+		ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:41:19-44
+activity#com.example.yenpham.ubs.MainActivity
+ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:42:9-50
+	android:name
+		ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:42:19-47
+activity#com.example.yenpham.ubs.MailSenderActivity
+ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:43:9-56
+	android:name
+		ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:43:19-53
+activity#com.example.yenpham.ubs.aboutUS
+ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:44:9-54
+	android:name
+		ADDED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml:44:19-42
+uses-sdk
+INJECTED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.2.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.2.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-auth:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.1/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.1/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/AndroidManifest.xml:3:5-42
+MERGED from [pub.devrel:easypermissions:0.1.5] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/pub.devrel/easypermissions/0.1.5/AndroidManifest.xml:8:5-10:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.2.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.1/AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/AndroidManifest.xml:19:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.6.1] /Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/AndroidManifest.xml:6:79-124
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d

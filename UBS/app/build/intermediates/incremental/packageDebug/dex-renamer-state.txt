@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Mon Nov 21 23:42:38 CST 2016
 base.0=/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_249d078f209b9d7557d66dcc96c1cc2124dc163a
 renamed.1=classes2.dex
@@ -5,3 +6,12 @@ renamed.0=classes.dex
 file.1=/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ec7c10b2035956c08f318c73b6def063efc07204/classes.dex
 base.1=/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ec7c10b2035956c08f318c73b6def063efc07204
 file.0=/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_249d078f209b9d7557d66dcc96c1cc2124dc163a/classes.dex
+=======
+#Tue Nov 22 15:10:36 CST 2016
+base.0=/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bab26f67129e441567c5e8d0dccd70b948a986ea
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cbf1f7732a6f19ef5ca809e3902b7b98632aa6ab/classes.dex
+base.1=/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cbf1f7732a6f19ef5ca809e3902b7b98632aa6ab
+file.0=/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bab26f67129e441567c5e8d0dccd70b948a986ea/classes.dex
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d

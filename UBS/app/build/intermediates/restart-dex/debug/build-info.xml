@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
+<<<<<<< HEAD
     abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="23"
     density="xxxhdpi"
@@ -12,11 +13,26 @@
     <task
         name="javac"
         duration="0" />
+=======
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="45258434682993"
+    token="-2416095902630614109"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="295" />
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="18" />
     <task
         name="instant-run-transform"
+<<<<<<< HEAD
         duration="0" />
     <task
         name="verifier"
@@ -31,7 +47,37 @@
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/outputs/apk/app-debug.apk"
+=======
+        duration="20" />
+    <task
+        name="verifier"
+        duration="8" />
+
+    <artifact
+        location="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="44179420397484"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/outputs/apk/app-debug.apk"
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
             type="MAIN" />
+    </build>
+    <build
+        timestamp="45037113033159"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="45258434682993"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

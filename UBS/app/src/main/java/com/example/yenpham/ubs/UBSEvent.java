@@ -1,7 +1,11 @@
 package com.example.yenpham.ubs;
+<<<<<<< HEAD
 
 /**
  * Created by ThaoNguyen on 11/13/16.
+=======
+ /* Created by ThaoNguyen on 11/13/16.
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
  */
 
 public class UBSEvent {

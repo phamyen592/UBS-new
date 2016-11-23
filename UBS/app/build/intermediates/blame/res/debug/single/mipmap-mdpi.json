@@ -1,6 +1,11 @@
 [
     {
+<<<<<<< HEAD
         "merged": "/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
         "source": "/Users/ThaoNguyen/Google Drive/Documents/CSE-3310-SoftwareEngineering/Project/UBS-new/UBS/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+=======
+        "merged": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/thangtran/Desktop/gitpull/UBS-new/UBS/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+>>>>>>> 504ee9c006b54802de2a7b943b5393cd518a7b9d
     }
 ]

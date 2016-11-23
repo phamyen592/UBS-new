@@ -1,15 +1,19 @@
 package com.example.yenpham.ubs;
 import android.app.Activity;
 import android.app.Dialog;
+import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
 
+import android.os.AsyncTask;
 import android.os.Bundle;
+import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.Toast;
 
 import com.google.android.gms.appindexing.Action;
 import com.google.android.gms.appindexing.AppIndex;
@@ -19,7 +23,7 @@ import com.google.android.gms.appindexing.Thing;
 import java.lang.String;
 import java.util.Random;
 
-
+import static android.R.attr.duration;
 
 
 public class firstTimeLogin extends AppCompatActivity {
@@ -32,7 +36,10 @@ public class firstTimeLogin extends AppCompatActivity {
     private EditText BOB;
     private EditText major;
     private Button submit;
-    private Dialog error;
+    private Dialog check;
+    private String utemail;
+    private int code;
+    private Button cancel;
 
 
     @Override
@@ -40,6 +47,7 @@ public class firstTimeLogin extends AppCompatActivity {
         setTheme(R.style.AppTheme);
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_first_time_login);
+        cancelRegistration ();
         fName = (EditText) findViewById(R.id.fName);
         lName = (EditText) findViewById(R.id.lName);
         phone = (EditText) findViewById(R.id.phone);
@@ -77,16 +85,16 @@ public class firstTimeLogin extends AppCompatActivity {
                     success = false;
 
                 }
-                String utemail = UTAEmail.getText().toString();
+                 utemail = UTAEmail.getText().toString();
                 if (utemail.length() == 0) {
                     UTAEmail.setError("Missing UTA email");
                     success = false;
                 }
-//                } else if (!isUTAEmail(utemail)) {
-//                    UTAEmail.setError("Invalid UTA email");
-//                    success = false;
-//
-//                }
+                 else if (!isUTAEmail(utemail)) {
+                    UTAEmail.setError("Invalid UTA email");
+                    success = false;
+
+              }
                 String mav = mavID.getText().toString();
                 if (mav.length() == 0) {
                     mavID.setError("missing mavID");
@@ -107,14 +115,36 @@ public class firstTimeLogin extends AppCompatActivity {
                 String maj = major.getText().toString();
 
                 if (success) {
-                    int code = generatecode();
-                    //sendEmail(code, utemail);
+                     code = generatecode();
+                    String message = "Check your UTA Email for verification code";
+                    Context context = getApplicationContext();
 
-                    Intent intent = new Intent(firstTimeLogin.this, MailSenderActivity.class);
+                    int duration = Toast.LENGTH_SHORT;
+                    Toast toast = Toast.makeText(context, message, duration);
+                    toast.show();
+                    new AsyncTask<Object, Object, Void>() {
+                        @Override
+                        public Void doInBackground(Object... arg) {
 
-                    intent.putExtra("EMAIL", utemail);
-                    intent.putExtra("CODE", code);
-                    startActivity(intent);
+                            try {
+
+                                String content = String.format("Your verification code is %d", code);
+                                GmailSender sender = new GmailSender("ubs.team9@gmail.com", "abcdefghik");
+                                sender.sendMail("Verification Code",
+                                        content, "ubs.team9@gmail.com", utemail);
+
+                                Intent vad = new Intent(firstTimeLogin.this, validation.class);
+                                vad.putExtra("Ver_Code", code);
+                                startActivity(vad);
+                            } catch (Exception e) {
+                                Log.e("SendMail", e.getMessage(), e);
+                            }
+
+                            return null;
+                        }
+                    }.execute();
+
+
                 }
 
 
@@ -185,7 +215,17 @@ public class firstTimeLogin extends AppCompatActivity {
         return result;
     }
 
+    public void cancelRegistration (){
+        cancel = (Button)findViewById(R.id.cancel);
+        cancel.setOnClickListener( new View.OnClickListener(){
+            @Override
+            public void onClick(View v) {
+                Intent cancelReg= new Intent(firstTimeLogin.this, welcom_class.class);
+                startActivity(cancelReg);
+            }
 
+        });
+    }
 
 }
 
